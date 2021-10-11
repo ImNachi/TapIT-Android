@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TapIT - Android</string>
+    <string name="signup_txt">Click to sign up</string>
+    <string name="signin_txt">Click to sign in</string>
+    <string name="bnav_one">Important</string>
+    <string name="bnav_two">Recent</string>
+    <string name="bnav_three">Contact</string>
+    <string name="searchview_hint">Search contacts and companies</string>
+</resources>

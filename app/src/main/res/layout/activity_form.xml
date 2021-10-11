@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.FormActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <EditText
+        android:id="@+id/name_field"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:inputType="text"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/age_field"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Age"
+        android:inputType="number"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/company_field"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Company Name"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/profession_field"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Profession"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/phone_one_field"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Personal Phone"
+        android:inputType="number"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/phone_two_field"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Office Phone"
+        android:inputType="number"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/address_field"
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:hint="Address"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/submit_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>

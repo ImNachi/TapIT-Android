@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457022736880",
+    "project_id": "tapit---mobile",
+    "storage_bucket": "tapit---mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457022736880:android:a182c8dbc2b91325ac7535",
+        "android_client_info": {
+          "package_name": "com.example.tapit_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457022736880-5bfmcors0oiokf3e9416dbkp2chv7isl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tapit_android",
+            "certificate_hash": "bac24d4a3a2906f3b0fd6eab38b453207dcf63c3"
+          }
+        },
+        {
+          "client_id": "457022736880-2p8ck0e90hfgbb6obihmrahqolidvfi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIozfopHiuuWVjhrgftFCd1nDZ-PkJURQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457022736880-2p8ck0e90hfgbb6obihmrahqolidvfi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
